@@ -27,7 +27,7 @@
 1. Сначала нужно склонировать этот репозиторий
 
 ```shell
-git clone https://github.com/FAANG-School/ServiceTemplate
+git clone https://github.com/school/ServiceTemplate
 ```
 
 2. Далее удаляем служебную директорию для git
